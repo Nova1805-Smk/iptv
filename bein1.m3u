@@ -2,3 +2,9 @@
 
 #EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="beIN SPORTS 1" group-title="SPORT",beIN SPORTS 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1, FR: BEIN SPORTS 1 FHD
+http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113288
+#EXTINF:-1, FR: BEIN SPORTS 2 FHD
+http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113289
+#EXTINF:-1,FR: BEIN SPORTS 3 FHD
+http://ip.xtremetv.eu:8000/myott/LWGCdfSeHSpZ/113290
