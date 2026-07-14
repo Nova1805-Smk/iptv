@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="TNT",TF1
+http://xyz-serv.lol:25461/live/0yemgrdp/lftg8rch/114330.ts
+
+#EXTINF:-1 group-title="TNT",M6
+http://xyz-serv.lol:25461/live/0yemgrdp/lftg8rch/114331.ts
+
+#EXTINF:-1 group-title="Canal+",Canal+
+http://xyz-serv.lol:25461/live/0yemgrdp/lftg8rch/12071.ts
+
+#EXTINF:-1 group-title="Documentaires",Seasons
+http://xyz-serv.lol:25461/live/0yemgrdp/lftg8rch/5456.ts
+
+#EXTINF:-1 group-title="Documentaires",Chasse et Pêche
+http://xyz-serv.lol:25461/live/0yemgrdp/lftg8rch/14301.ts
